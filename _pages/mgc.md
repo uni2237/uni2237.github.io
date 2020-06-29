@@ -1,7 +1,7 @@
 ---
 title: "2020 하계 모각코"
 layout: category
-permalink: /category/mgc/
+permalink: /categories/mgc/
 author_profile: true
 taxonomy: 2020 하계 모각코
 ---
