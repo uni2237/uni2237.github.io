@@ -1,7 +1,8 @@
 ---
-title: "공부"
-layout: category
+title: "personal_project"
+layout: categories
 permalink: /categories/study/
 author_profile: true
-taxonomy: STUDY
+taxonomy: personal_project
 ---
+개인 공부
