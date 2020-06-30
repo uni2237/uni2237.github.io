@@ -1,7 +1,7 @@
 ---
 title: "personal_project"
 layout: categories
-permalink: /categories/study/
+permalink: /categories/
 author_profile: true
 taxonomy: personal_project
 ---
