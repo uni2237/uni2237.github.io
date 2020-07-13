@@ -1,6 +1,6 @@
 ---
 title: "Iwaz 인턴 일지"
-layout: category
+layout: categories
 permalink: /categories/work/
 author_profile: true
 taxonomy: Iwaz 인턴 일지
