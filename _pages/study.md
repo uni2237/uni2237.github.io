@@ -6,5 +6,6 @@ author_profile: true
 taxonomy:
   - mgc
   - memo
+  - algorithm
 ---
 개인 공부
