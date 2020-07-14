@@ -19,7 +19,7 @@ locale                   : "UTF-8"
 title                    : "uni2237.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yunhui Cho"
+name                     : "Yunhui Cho :)"
 description              : "major in computer science engineering"
 url                      : "https://uni2237.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
