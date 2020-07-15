@@ -5,7 +5,7 @@ permalink: /categories/work/
 author_profile: true
 taxonomy: 
   - iwaz
-  - 
+  - algorithm
 ---
 [http://www.iwaz.co.kr](http://www.iwaz.co.kr)  
 담당 업무: AI / 자연어 처리 / 빅데이터 관련   
