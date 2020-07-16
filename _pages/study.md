@@ -7,5 +7,6 @@ taxonomy:
   - mgc
   - memo
   - algorithm
+  - python_Tip!
 ---
 개인 공부
