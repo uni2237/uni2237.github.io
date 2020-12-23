@@ -1,7 +1,7 @@
 ---
-title: "Iwaz 인턴 일지"
+title: "인턴 일지"
 layout: categories
-permalink: /categories/work/iwaz
+permalink: /categories/work/Intern
 author_profile: true
-taxonomy: iwaz
+taxonomy: Intern
 ---
