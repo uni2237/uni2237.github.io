@@ -19,6 +19,7 @@ taxonomy: Intern
 
 **[한국생명공학연구원 - 국가생명연구자원정보센터]**  
 2020/12/21 ~ 2020/02/23 (cnu 백마인턴)  
+[https://www.kribb.re.kr/kor/main/main.jsp](https://www.kribb.re.kr/kor/main/main.jsp)  
   
 담당업무)  
 - scikit-learn 오픈 라이브러리를 활용한 regression 분석 서비스 개발
